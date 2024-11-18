@@ -1,0 +1,2 @@
+# TrainingPracticeCP
+git session
